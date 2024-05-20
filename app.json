@@ -55,6 +55,10 @@
       "required": true,
       "value": "OFFICIAL-KY"
     },
+   "THUMB_IMAGE": {
+    "description": "Put Your Image Url for bot.",
+     "value": "https://telegra.ph/file/b7385af45a0c1791dfd25.jpg"
+   },
     "AUDIO_DATA": {
       "description": "audio package name",
       "required": true,
